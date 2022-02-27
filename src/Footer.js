@@ -11,8 +11,7 @@ const Footer = () => {
         <ArrowUpwardIcon className='i' />
       </div>
       <p>
-        &copy; 2020 - Shahzaib Ekram | MERN Full Stack - Cross Platform Application
-        Developer.
+      All content copyright &copy; 2022, prabodhani herath.
       </p>
     </footer>
   );

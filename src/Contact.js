@@ -1,5 +1,14 @@
 import React from 'react'
 import './Aboutstyle.css'
+import GitIcon from '@material-ui/icons/GitHub';
+import FacebookIcon from '@material-ui/icons/Facebook';
+import InstaIcon from '@material-ui/icons/Instagram';
+
+let iconStyles = {
+    fontSize: '35px',
+    margin: '10px',
+    
+  };
 
 const Contact = () => {
     return (
@@ -7,20 +16,18 @@ const Contact = () => {
             <section className='container' data-aos="fade-up">
                 <div className="text-center">
                     <div className='contact-heading'>
-                    <h1>Contact</h1>
+                    <h1>Contact Details</h1>
+                    <h5>H.M.T.Prabodhani Hearth<br/>Meewallewa, Nikaweratiya,<br/>Kurunegala,<br/>077-7698263<br/><br/>
+                        hmtprabodhani@gmail.com</h5>
                     </div>
-                    <div className="contact-form">
-                        <form id="contact-form" method="POST">
-
-                            <input type="text" placeholder="Your Name" name="name" className="form-control" required /> <br />
-                            <input type="email" placeholder="E-mail" name="email" className="form-control" required /> <br />
-                            <textarea name="message" placeholder="Message" rows="4" className="form-control" required></textarea> <br />
-
-                            <input type="Submit" value="SUBMIT" />
-                        </form>
-
+                    <div className='icon-container'>
+                        <GitIcon style={iconStyles}/>
+                        <FacebookIcon style={iconStyles}/>
+                        <InstaIcon style={iconStyles}/>
                     </div>
-
+                    <br/>
+                    
+                    
                 </div>
             </section>
         </div>

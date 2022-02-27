@@ -1,6 +1,6 @@
 import React from 'react'
 import './Aboutstyle.css'
-import profPic from './Images/pic.jpg'
+import profPic from './Images/profile.png'
 
 
 const About = () => {
@@ -20,23 +20,23 @@ const About = () => {
         </div>
 
         <p>
-          Hello! I'm Shahzaib, a software engineer based in Karachi, Web
-          Developer with 1 years of experience in designing and developing
-          user interfaces, and eCommerce technologies.
-          Proven ability in optimizing web functionality that improve data
-          retrieval and workflow efficiencies using modern frontend. <br />
-          <br /> Currently i am in 1st semester of my bachelors from SMIU
-            University of Pakistan.
+        Hello, I am H.M.Tharanga Prabodhani Herath. I am a undergraduate 
+        in University of Sri Jayewardenepura. I am currently following 
+        Bachelor of science Information and Communication Technology. <br/><br/>
+        I am much interested in developing new things which excite me a lot. 
+        I interested in web development, Mobile application development and User Interface Design.
+        I love exploring new technologies and being a practitioner, I like to stay on top of latest trends. 
+  
           </p>
         <br />
         <p>
           Here are a few technologies I've been working with recently:
-          <li>JavaScript (ES6+)</li>
-          <li>HTML5 & (S)CSS3</li>
+          <li>JavaScript</li>
+          <li>HTML5 & CSS</li>
           <li>ReactJS</li>
-          <li>Bootstrap</li>
-          <li>Wordpress</li>
-          <li>Gatsby</li>
+          <li>Java</li>
+          <li>python</li>
+          
           
           
         </p>
@@ -50,7 +50,9 @@ const About = () => {
 
       <div className="landing-text">
         {/* <img src={logo} alt="aitsam ahad logo" className="logo" /> */}
-        <h6>MERN Full Stack | React Native Developer</h6>
+        <h6>- PRABODHANI HERATH -</h6>
+        <p>Development, UI/UX Design, Graphic Design</p>
+        
       </div>
 
     </div>
