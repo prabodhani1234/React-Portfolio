@@ -36,6 +36,7 @@ const About = () => {
           <li>ReactJS</li>
           <li>Java</li>
           <li>python</li>
+          <li>React Native</li>
           
           
           
