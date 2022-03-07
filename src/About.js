@@ -51,7 +51,7 @@ const About = () => {
 
       <div className="landing-text">
         {/* <img src={logo} alt="aitsam ahad logo" className="logo" /> */}
-        <h6>- I AM PRABODHANI HERATH -</h6>
+        <h6>-PRABODHANI HERATH-</h6>
         
       </div>
 

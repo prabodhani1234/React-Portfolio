@@ -43,7 +43,7 @@ const Portfolio = () => {
             development and have experience in building web applications.
             And also, I have knowledge about Firebase, SQL
             </p>
-            <h4><a href='https://drive.google.com/drive/folders/1fxT1QUEOcDIhLQ6OzL6DJfvQzpAAwrjA?usp=sharing'>works</a></h4>
+            <h4><a href='https://github.com/prabodhani1234/React-Portfolio'>works</a></h4>
 
           </div>
           <div className="portfolio-img">
