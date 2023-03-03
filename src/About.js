@@ -1,6 +1,6 @@
 import React from 'react'
 import './Aboutstyle.css'
-import profPic from './Images/my.png'
+import profPic from './Images/profile.png'
 
 
 const About = () => {
